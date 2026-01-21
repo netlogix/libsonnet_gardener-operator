@@ -2,4 +2,4 @@
 
 This library is generated with [`k8s`](https://github.com/netlogix/k8s-gen).
 
-[Docs](https://gh.netlogix.de/libsonnet_gardener-operator)
+- [1.132.1](1.132.1/README.md)
