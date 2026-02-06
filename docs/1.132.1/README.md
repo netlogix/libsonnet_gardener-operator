@@ -8,3 +8,6 @@ permalink: /1.132.1/
 local gardener_operator = import "github.com/netlogix/libsonnet_gardener-operator/1.132.1/main.libsonnet"
 ```
 
+
+
+* [operator](operator/index.md)
