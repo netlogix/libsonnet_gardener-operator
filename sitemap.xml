@@ -2,10 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://gh.netlogix.de/libsonnet_gardener-operator/</loc>
-         <lastmod>2026-01-21</lastmod>
+         <lastmod>2026-02-06</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_gardener-operator/1.132.1/</loc>
-         <lastmod>2026-01-21</lastmod>
+         <lastmod>2026-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_gardener-operator/1.132.1/operator/</loc>
+         <lastmod>2026-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_gardener-operator/1.132.1/operator/v1alpha1/</loc>
+         <lastmod>2026-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_gardener-operator/1.132.1/operator/v1alpha1/extension/</loc>
+         <lastmod>2026-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_gardener-operator/1.132.1/operator/v1alpha1/garden/</loc>
+         <lastmod>2026-02-06</lastmod>
     </url>
 </urlset>
